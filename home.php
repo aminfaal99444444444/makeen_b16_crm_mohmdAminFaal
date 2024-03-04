@@ -11,7 +11,7 @@
 <body>
   <div>
     <center>
-    
+      <div class="container mt-3 border-primary">
      
         </nav>
         <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
@@ -26,7 +26,7 @@
                   <a class="nav-link" href="register.html">صفحه ثبت نام</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="newuser.html"> کاربر جدید+</a>
+                  <a class="nav-link" href="http://localhost:8080/projects/Makinn/users/newusers.php"> کاربر جدید+</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="newproduct.html">محصول+</a>
@@ -35,13 +35,19 @@
                   <a class="nav-link" href="neworder.html">سفارش+</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="list of user.html">جدول کاربران</a>
+                  <a class="nav-link" href="http://localhost:8080/projects/Makinn/users/listUser.php">جدول کاربران</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="list of procuct.html">جدول محصولات</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="list of order.html">جدول سفارشات</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="post.html">مقالات</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="post.html">دسته بندی</a>
                 </li>
               </ul>
               <form class="d-flex">
@@ -73,6 +79,7 @@
           </div>
       </div>
     </form>
+  </div>
   </div>
 </body>
 </center>
