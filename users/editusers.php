@@ -66,7 +66,7 @@ $row = mysqli_fetch_assoc($result)
     <br>
     <button type="submit" class="btn btn-primary">ثبت</button>
   </form>
-  </form>
+  
   <div></div>
 </body>
 </center>

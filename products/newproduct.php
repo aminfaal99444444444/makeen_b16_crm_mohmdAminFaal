@@ -10,7 +10,7 @@
     
 </head>
 <body>
-  <form  method="get"  action="http://localhost:8080/projects/makinn/indexx.php"></form>
+  <form  method="post"  action="../index2.php=newProduct"></form>
   <div class="container mt-3 border-primary">
     <h2>افزودن محصول</h2>
     <form>
@@ -25,7 +25,6 @@
             <input type="password" class="form-control" placeholder="رنگ محصول" name="color">
           </div>
        
-
        
        
       <div class="col">
@@ -37,15 +36,16 @@
           <option value="divide">پوشاک</option> <option value="divide">اسباب بازی</option> <option value="divide">زیورالات و اکسسوری</option></select> 
         
         <br>
-       <label for="operator">لطفا تعداد را انتخاب کنید</label> <select id="operator" name="tedad"> <option value="multiply">1</option>
-          <option value="divide">2</option> <option value="divide">3</option> <option value="divide">4</option>
-            <option value="divide">5</option> <option value="divide">6</option> <option value="divide">7</option> <option value="divide">8</option>
-            <option value="divide">9</option> <option value="divide">10</option></SElect>
+       <label for="operator">لطفا تعداد را انتخاب کنید</label> <select id="operator" name="tedad">
+         <option value="multiply">1</option>
+          <option value="divide">2</option> 
+          <option value="divide">3</option>
+           <option value="divide">4</option>
+            </SElect>
         <br>
       
         <br>
-    
-        
+  
         <button type="submit" class="btn btn-primary">ثبت</button>
 
     </div>

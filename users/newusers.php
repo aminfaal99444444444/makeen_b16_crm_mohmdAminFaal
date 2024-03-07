@@ -38,13 +38,17 @@
       <br>
       <br>
       <br>
-      <label for="operator">لطفا انتخاب کنید</label> <select id="operator" name="gender"> <option value="multiply">male</option>
+      <label for="operator">لطفا انتخاب کنید</label> <select id="operator" name="gender"> 
+        <option value="multiply">male</option>
         <option value="divide">female</option></select>
     </div>
     <button type="submit" class="btn btn-primary">ثبت</button>
-
+      </div>
+      <br>
+    </div>
+    
   </form>
-  <div></div>
+  </div>
+  </center>
 </body>
-</center>
 </html>

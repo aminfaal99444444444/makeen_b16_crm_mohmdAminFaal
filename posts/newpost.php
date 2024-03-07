@@ -1,14 +1,14 @@
-<html lang="en" dir="rtl">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
-    <title>ویرایش مقاله</title>
-  </head>
-  <body>
+<html lang="en">
+<head>
+  <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="bootstrap.css">
     
-    <nav class="navbar navbar-expand-sm bg-light container">
+</head>
+<body>
+<nav class="navbar navbar-expand-sm bg-light container">
       <div class="container-fluid">
         <ul class="navbar-nav">
           <li class="nav-item"><a class="nav-link" href="C:\xampp\htdocs\projects\crm\login.html">ورود</a></li>
@@ -31,7 +31,7 @@
 
     <div class="container">
       <form action=".php">
-        <h2>ویرایش مقاله</h2>
+        <h2>ثبت مقاله جدید</h2>
         <div class="mb-3 mt-3">
           <label for="name" class="form-label">عنوان:</label>
           <input
@@ -83,3 +83,12 @@
     </div>
   </body>
 </html>
+
+
+</body>
+</html>
+
+
+
+
+

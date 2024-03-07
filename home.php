@@ -29,22 +29,22 @@
                   <a class="nav-link" href="http://localhost:8080/projects/Makinn/users/newusers.php"> کاربر جدید+</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="newproduct.html">محصول+</a>
+                  <a class="nav-link" href="http://localhost:8080/projects/Makinn/products/newProduct.php">محصول+</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="neworder.html">سفارش+</a>
+                  <a class="nav-link" href="http://localhost:8080/projects/Makinn/orders/neworder.php">سفارش+</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="http://localhost:8080/projects/Makinn/users/listUser.php">جدول کاربران</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="list of procuct.html">جدول محصولات</a>
+                  <a class="nav-link" href="http://localhost:8080/projects/Makinn/products/listProduct.php">جدول محصولات</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="list of order.html">جدول سفارشات</a>
+                  <a class="nav-link" href="http://localhost:8080/projects/Makinn/orders/listorder.php">جدول سفارشات</a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link" href="post.html">مقالات</a>
+                  <a class="nav-link" href="http://localhost:8080/projects/Makinn/posts/listpost.php">مقالات</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="post.html">دسته بندی</a>

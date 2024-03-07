@@ -13,7 +13,7 @@ $name=$_POST['name'];
 $phone_number=$_POST['phone_number'];
 $city=$_POST['city'];
 $password=$_POST['password'];
-$gender=$_POST['jensiat'];
+$gender=$_POST['gender'];
 mysqli_query($con,"insert into users (name, phone_number, city, password, gender) values('$name','$phone_number','$city','$password','$gender');"); 
 }
 if($_GET['type'] == 'editusers'){
@@ -35,9 +35,6 @@ where id = $id
 ";
 mysqli_query($con,$query);
 header ('location:http://localhost:8080/projects/Makinn/users/listUser.php');
-
-
-
 }
 
 if($_GET['type'] == 'deleteUser'){
