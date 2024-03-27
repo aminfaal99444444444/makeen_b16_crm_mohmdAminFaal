@@ -49,7 +49,7 @@
       </nav>
     <div class="container mt-3 border-primary">
       <h2>افزودن محصول</h2>
-      <form  method="post"  action="/products/create">
+      <form  method="post"  action="{{route('products.create')}}">
         @csrf
           <br>
           <div class="row">
